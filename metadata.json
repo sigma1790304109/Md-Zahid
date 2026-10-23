@@ -1,0 +1,6 @@
+{
+  "name": "ছ্যাঁকা খাওয়া প্রেমিক 💔",
+  "description": "ভাঙা হৃদয়ের শহরে স্বাগতম - ছ্যাঁকা খাওয়া প্রেমিক-প্রেমিকাদের অনুভূতি প্রকাশ, প্রোফাইল সংযোগ ও সহানুভূতি শেয়ারিং প্ল্যাটফর্ম।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
